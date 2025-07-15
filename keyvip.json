@@ -1,32 +1,17 @@
 [
   {
-    "key": "Kenziu",
-    "expiry": "2099-12-31T23:59:59",
+    "key": "abcxyzvip1234567890abcdefghiABC123",
     "type": "vip",
-    "device_id": "140658508777211"
+    "expiry": "2025-07-30T23:59:00"
   },
   {
-    "key": "Hung0899",
-    "expiry": "2099-12-31T23:59:59",
+    "key": "viptoolsoicodoc2025112233",
     "type": "vip",
-    "device_id": "193329533832906"
+    "expiry": "2035-12-31T12:00:00"
   },
   {
-    "key": "HENTAI",
-    "expiry": "2099-12-31T23:59:59",
+    "key": "2025anhphuocviptool888888",
     "type": "vip",
-    "device_id": "36516125495351"
-  },
-  {
-    "key": "es24gijbu9f6h8",
-    "expiry": "2099-12-31T23:59:59",
-    "type": "vip",
-    "device_id": "161793469998306"
-  },
-  {
-    "key": "5gbbuuibce5",
-    "expiry": "2025-7-19T23:59:59",
-    "type": "vip",
-    "device_id": "173103401486374"
+    "expiry": "2025-08-15T00:00:00"
   }
 ]
